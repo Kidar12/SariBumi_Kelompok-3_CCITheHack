@@ -1,4 +1,4 @@
-🌱 Saribumi — Prediksi Tanaman Panen
+🌱 Saribumi
 
 📘 Deskripsi Singkat
 Proyek ini bertujuan untuk memprediksi hasil panen tanaman berdasarkan data pertanian menggunakan model pembelajaran mesin.
